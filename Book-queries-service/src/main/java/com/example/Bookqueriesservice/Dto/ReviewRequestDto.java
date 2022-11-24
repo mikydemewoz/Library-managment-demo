@@ -1,0 +1,17 @@
+package com.example.Bookqueriesservice.Dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+@Data
+public class ReviewRequestDto {
+    private String isbn;
+    private Integer rating;
+    private String description;
+    private String customerName;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Review-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Borrowing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Book-queries-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Book-commands-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/Api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/client-app/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="corretto-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Api-gateway/Api-gateway.iml" filepath="$PROJECT_DIR$/Api-gateway/Api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book-commands-service/Book-commands-service.iml" filepath="$PROJECT_DIR$/Book-commands-service/Book-commands-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book-queries-service/Book-queries-service.iml" filepath="$PROJECT_DIR$/Book-queries-service/Book-queries-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Borrowing-service/Borrowing-service.iml" filepath="$PROJECT_DIR$/Borrowing-service/Borrowing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config-server/Config-server.iml" filepath="$PROJECT_DIR$/Config-server/Config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer-service/Customer-service.iml" filepath="$PROJECT_DIR$/Customer-service/Customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discovery/Discovery.iml" filepath="$PROJECT_DIR$/Discovery/Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Library system.iml" filepath="$PROJECT_DIR$/.idea/Library system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review-service/Review-service.iml" filepath="$PROJECT_DIR$/Review-service/Review-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-app/client-app.iml" filepath="$PROJECT_DIR$/client-app/client-app.iml" />
+    </modules>
+  </component>
+</project>

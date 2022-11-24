@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Book-queries-service
+  cloud:
+    config:
+      url: http://localhost:8888

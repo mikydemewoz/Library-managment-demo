@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Book-command-service
+  cloud:
+    config:
+      url: http://localhost:8888
